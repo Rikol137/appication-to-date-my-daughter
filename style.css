@@ -1,0 +1,29 @@
+body {
+  font-style: initial;
+  font-weight: bold;
+  font-size: 24 px;
+}
+
+#outside {
+  background-color: rgb(47, 82, 74);
+  padding-top: 3px;
+  padding-bottom: 5px;}
+
+  h1 {
+    font-size: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+  }
+
+  form {
+    margin: 0 auto;
+    width: 70%;
+    padding: 10px;
+    border: 1px solid rgb(235, 225, 225);
+    border-radius: 10px;
+    
+  }
+  
+
+  
